@@ -1,5 +1,5 @@
 import pandas as pd
-missdb = pd.read_csv('EVT_MISS_PZ_2022.tab', low_memory= False, encoding='ISO-8859-1', on_bad_lines= 'skip', sep='\t')
+missdb = pd.read_csv('EVT_MISS_PZ_2019.tab', low_memory= False, encoding='ISO-8859-1', on_bad_lines= 'skip', sep='\t')
 # per prima cosa estraiamo i dati di AREU
 from preprocessing_AREU import *
 # applichiamo il preprocessing in modo da filtrare e risistemare i dati

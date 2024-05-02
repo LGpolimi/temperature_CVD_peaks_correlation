@@ -3,6 +3,11 @@
 /pyvenv.cfg
 /.idea/
 
+/EVT_MISS_PZ_2019.tab
+/Temperature_medie_2019_1.csv
+/Temperature_medie_2019_2.csv
+/griglia_temp_2019.csv
+
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
